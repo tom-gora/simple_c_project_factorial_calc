@@ -1,6 +1,6 @@
 ### Factorial calculator written in C
 
-Really basic project made for college as exploration of building simple TUI interfaces drawn by C
+Really basic project made for college as exploration of building simple TUI interfaces drawn with C
 in a terminal window.
 
 This was motivated by my deep fascination with UI related to webdev. I wanted to see how much more can be done with a simple
